@@ -7,5 +7,5 @@ import br.com.gianlucca.AppProdutos.model.Estoque;
 
 @Repository
 public interface EstoqueRepository extends JpaRepository<Estoque, Long> {
-
+	
 }
